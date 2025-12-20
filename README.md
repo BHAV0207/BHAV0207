@@ -19,9 +19,6 @@ I primarily work with the MERN stack, backend systems, and distributed architect
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://BHAV0207.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
 
 </div>
 
@@ -39,14 +36,14 @@ I primarily work with the MERN stack, backend systems, and distributed architect
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAV0207&layout=compact&langs_count=8&hide_border=true"/>
 </div>
 
-<h2>🔥 | GitHub Activity Streak</h2>
+<!-- <h2>🔥 | GitHub Activity Streak</h2>
 
 <div align="center">
   <img
     src="https://streak-stats.demolab.com/svg?user=BHAV0207&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
-</div>
+</div> -->
 
 
 
