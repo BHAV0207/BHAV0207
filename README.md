@@ -35,13 +35,17 @@ I primarily work with the MERN stack, backend systems, and distributed architect
 
 <h2>⭐ | GitHub Stats</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHAV0207&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAV0207&layout=compact&langs_count=8&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BHAV0207&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAV0207&layout=compact&langs_count=8&hide_border=true"/>
 </div>
 
 <h2>🔥 | GitHub Activity Streak</h2>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BHAV0207&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img
+    src="https://streak-stats.demolab.com/svg?user=BHAV0207&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 
