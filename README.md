@@ -15,7 +15,7 @@ I primarily work with the MERN stack, backend systems, and distributed architect
 <h2>🤝 | Connect with Me</h2>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bhavya-jain/" target="_blank">
+<a href="https://www.linkedin.com/in/bhavyajain0207/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
