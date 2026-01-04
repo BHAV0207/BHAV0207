@@ -58,7 +58,7 @@ I primarily work with the MERN stack, backend systems, and distributed architect
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python"/>
+      <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,golang,flask"/>
     </td>
   </tr>
   <tr>
