@@ -76,12 +76,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BHAV0207&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BHAV0207&show_icons=true&include_all_commits=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHAV0207&theme=github_dark">
+  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHAV0207&theme=default">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAV0207&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAV0207&layout=compact&langs_count=8&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHAV0207&theme=github_dark">
+  <img height="170" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHAV0207&theme=default">
 </picture>
 
 <picture>
