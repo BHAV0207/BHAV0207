@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="https://github.com/BHAV0207" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=BHAV0207.BHAV0207&left_color=gray&right_color=blue&left_text=Profile%20Visitors" alt="Profile visitors"/></a>
+</div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=650&height=60&duration=3500&pause=800&color=58A6FF&lines=Hi+there!+I'm+Bhavya+Jain+👋;Full-Stack+Developer;Backend+%26+Distributed+Systems;Exploring+Data+%26+AI+Integration" alt="Typing SVG" />
@@ -7,7 +11,6 @@
 <a href="https://www.linkedin.com/in/bhavyajain0207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/bhavyin" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:bhavyawork0207@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=BHAV0207.BHAV0207&left_color=gray&right_color=blue&left_text=Profile%20Visitors" alt="Profile visitors"/>
 
 </div>
 
@@ -26,28 +29,35 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=js,ts,go,py,html,css" alt="Languages"/>
-
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"/>
-
-**Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,kafka" alt="Backend"/>
-
-**Databases**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" alt="Databases"/>
-
-**Data Engineering**<br>
-<img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
-
-**DevOps & Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" alt="DevOps and tools"/>
-
-</div>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,go,py,html,css" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,flask,kafka" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" alt="Airbyte"/>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Tools</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" alt="DevOps and tools"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -58,7 +68,6 @@
 | 🛒 [**E-com Microservices (Go)**](https://github.com/BHAV0207/E-com-Microservices-GO) | Event-driven e-commerce system with 7 services (user, product, inventory, cart, order, payment, notification) talking over REST and Kafka, with stock reservation and payment-event flows | Go · Kafka · MongoDB · Docker |
 | 🔔 [**Notification Microservices Backend**](https://github.com/BHAV0207/Notification-Microservices-Backend) | Scalable microservices e-commerce backend with user, product, order, notification, and recommendation services | Node.js · GraphQL · Kafka · Redis · JWT · Docker |
 | 🤖 [**Customer Feedback Agentic Workflow**](https://github.com/BHAV0207/customer-feedback-agentic-workflow) | Multi-agent AI workflow that analyzes customer feedback for sentiment, category, and priority, then logs structured insights | n8n · Gemini · Google Sheets |
-| 📄 [**Butter Money Document Processing**](https://github.com/BHAV0207/Butter-Money-Document-Processing-System) | Full-stack app for secure loan document generation, PDF processing, auth, and file management | React · Node.js · Express · MongoDB · TypeScript |
 
 ---
 
